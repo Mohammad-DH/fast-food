@@ -12,9 +12,9 @@ this project is accessible by website and smartphone apk for both ios and androi
        - react-router
         
 ## how to start
-  1_ clone it or download the zip file
-  2_ install dependency with yarn or npm
-  3_ start with yarn start or npm start
+  1. clone it or download the zip file
+  2. install dependency with yarn or npm
+  3. start with yarn start or npm start
   
   
 [Demo](https://www.mohammaddh.com/projects/food-delivery/)  
